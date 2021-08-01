@@ -1,0 +1,27 @@
+[submodule "mods/luscious"]
+	path = mods/luscious
+	url = https://github.com/sofar/luscious
+[submodule "mods/goblins"]
+	path = mods/goblins
+	url = git@github.com:FreeLikeGNU/goblins
+[submodule "mods/mobs_mc"]
+	path = mods/mobs_mc
+	url = git@github.com:maikerumine/mobs_mc
+[submodule "mods/tozcmd"]
+	path = mods/tozcmd
+	url = git@github.com:tweakoz/minetest_tozcmd
+[submodule "mods/technic"]
+	path = mods/technic
+	url = git@github.com:minetest-mods/technic
+[submodule "mods/mesecons"]
+	path = mods/mesecons
+	url = git@github.com:minetest-mods/mesecons
+[submodule "mods/moreores"]
+	path = mods/moreores
+	url = git@github.com:minetest-mods/moreores
+[submodule "mods/digtron"]
+	path = mods/digtron
+	url = git@github.com:minetest-mods/digtron
+[submodule "mods/lightning"]
+	path = mods/lightning
+	url = git@github.com:minetest-mods/lightning
